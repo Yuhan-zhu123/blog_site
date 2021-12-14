@@ -1,11 +1,10 @@
-# Group10-Project
-
-This program uses Express and MongoDB to build a site that users can create and modify their blogs
+# Blog site
+This program uses Express and MongoDB to build a site for users to create, delete and modify blogs
 
 # Requirements
 
 * Node.js
-* An Atlas MongoDB account
+* Mongo database
 
 # Common setup
 
